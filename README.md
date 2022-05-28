@@ -57,7 +57,7 @@ Create a JSON file with your credentials.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Mihir9702/puppet-msg
    ```
 2. Install Dependencies
 
